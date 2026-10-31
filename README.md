@@ -79,11 +79,12 @@ Durante el TPI utilicé asistentes de IA generativa: **Gemini** (Entregas 1 y 2,
 | *"Recordame paso a paso los comandos de Git y cómo usarlos. Creame un .txt o .md para tenerlo a mano"* | Aprender el flujo de trabajo del repositorio. | Necesitaba recordar cada paso en la termina para poder ejecutarlo y defenderlo. |
 | *"Tomando en cuenta este boceto, cómo implementamos propiamente la consigna de bpmn? Dame una guía para dibujarlo en Bizagi."* | Definir el proceso de despacho y su lógica de excepciones. | Pedí una guía de Bizagi, nunca lo había usado. |
 | *"Según las metas dadas en el TPI 2, y tomando en cuenta los indicadores dado en el .txt, crea la tabla requerida"* | Armar la tabla de indicadores (Consigna 4). | Partir de mis metas de la Entrega 2 garantiza la coherencia entre la planeación y el control. |
+
 ### Correcciones humanas sobre los resultados
 
 - **El texto era "demasiado perfecto".** La primera versión de la Entrega 3 sonaba como un manual de IA, se dió muchas libertades en las correciones. Pedí reducir las correciones a solo cuestiones indispensables o de contexto, le brindé un .txt con algunas experiencias de planta para que considere agregarlas. Después corregí el exceso contrario: saqué expresiones coloquiales que no corresponden a un trabajo académico.
 - **Validación técnica.** Verifiqué contra mi experiencia en planta los datos del dominio: corrección del volumen por temperatura, densidad de referencia, protocolos, rol de HSE como staff, restricciones de acceso a zonas clasificadas y operación en turnos.
 - **Decisiones propias.** Agregar el puesto de *Redes y Telemetría (OT)*, ubicar HSE como staff y definir las metas (2,5 s, 350.000 registros diarios, 40 semanas) fueron decisiones mías, que la IA solo ayudó a redactar.
 - **Coherencia entre entregas.** Detecté y corregí un error en la Entrega 1 (un nombre de empresa que no correspondía al caso) y revisé que las figuras, las tablas y las referencias cruzadas coincidieran en el documento consolidado.
-
-Asumo la responsabilidad total sobre el contenido. Cualquier error del modelo que no haya detectado es un error mío.
+- **Diagrama BPMN propio.** Dibujé el BPMN en Bizagi a partir de la propuesta. Al revisarlo corregí una compuerta que había quedado como inclusiva en lugar de paralela y errores de tipeo, y quité las referencias cruzadas a figuras en el texto.
+- **Indicadores validados.** Ajusté los estándares (tolerancia de balance, ciclo de facturación) según lo que es realista en una planta.Asumo la responsabilidad total sobre el contenido. Cualquier error del modelo que no haya detectado es un error mío.
